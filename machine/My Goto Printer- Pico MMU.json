@@ -4,9 +4,6 @@
     "change_filament_gcode": "_SP_SET_PURGE PURGE=[first_flush_volume]",
     "cooling_tube_length": "0",
     "cooling_tube_retraction": "0",
-    "deretraction_speed": [
-        "0"
-    ],
     "enable_filament_ramming": "0",
     "extra_loading_move": "0",
     "fan_speedup_overhangs": "0",
@@ -22,16 +19,20 @@
         "0",
         "10000"
     ],
-    "machine_max_acceleration_x": [
-        "15100",
-        "10000"
-    ],
-    "machine_max_acceleration_y": [
+    "machine_max_acceleration_retracting": [
         "15000",
         "10000"
     ],
+    "machine_max_acceleration_x": [
+        "25000",
+        "10000"
+    ],
+    "machine_max_acceleration_y": [
+        "25000",
+        "10000"
+    ],
     "machine_max_acceleration_z": [
-        "1600",
+        "2500",
         "500"
     ],
     "machine_max_jerk_e": [
@@ -39,15 +40,15 @@
         "5"
     ],
     "machine_max_jerk_x": [
-        "15",
+        "20",
         "9"
     ],
     "machine_max_jerk_y": [
-        "15",
+        "20",
         "9"
     ],
     "machine_max_jerk_z": [
-        "15",
+        "20",
         "0.4"
     ],
     "machine_max_speed_z": [
@@ -78,10 +79,10 @@
         "0"
     ],
     "retraction_length": [
-        "0.25"
+        "0.15"
     ],
     "retraction_speed": [
-        "100"
+        "50"
     ],
     "support_multi_bed_types": "1",
     "thumbnails": "320x320/PNG, 160x160/PNG, 600x600/PNG",
@@ -90,9 +91,9 @@
         "0"
     ],
     "wipe_distance": [
-        "0.6"
+        "0.2"
     ],
     "z_hop": [
-        "0.3"
+        "0.15"
     ]
 }

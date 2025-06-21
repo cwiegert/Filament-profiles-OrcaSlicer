@@ -1,6 +1,6 @@
 {
     "default_filament_colour": [
-        "#4D89ED"
+        "#EF3300"
     ],
     "dont_slow_down_outer_wall": [
         "1"
@@ -12,7 +12,7 @@
         "20"
     ],
     "fan_max_speed": [
-        "20"
+        "30"
     ],
     "fan_min_speed": [
         "5"
@@ -39,7 +39,7 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "19"
+        "23"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
@@ -57,7 +57,7 @@
         "1"
     ],
     "filament_settings_id": [
-        "Tinmorry PETG-GF Aqua Blue - Calibrated -MMU"
+        "Tinmorry PETG-GF Frosty Red - Calibrated -MMU"
     ],
     "filament_start_gcode": [
         "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=-0.04 MOVE=1 "
@@ -80,7 +80,7 @@
     "from": "User",
     "inherits": "Elegoo Generic PETG",
     "is_custom_defined": "0",
-    "name": "Tinmorry PETG-GF Aqua Blue - Calibrated -MMU",
+    "name": "Tinmorry PETG-GF Frosty Red - Calibrated -MMU",
     "nozzle_temperature": [
         "260"
     ],
@@ -100,13 +100,13 @@
         "0"
     ],
     "slow_down_layer_time": [
-        "6"
+        "2"
     ],
     "slow_down_min_speed": [
         "25"
     ],
     "support_material_interface_fan_speed": [
-        "40"
+        "65"
     ],
     "temperature_vitrification": [
         "220"

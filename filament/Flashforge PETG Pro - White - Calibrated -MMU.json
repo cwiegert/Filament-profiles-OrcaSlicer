@@ -1,6 +1,6 @@
 {
     "default_filament_colour": [
-        "#4D89ED"
+        "#FFFFFF"
     ],
     "dont_slow_down_outer_wall": [
         "1"
@@ -9,7 +9,7 @@
         "1"
     ],
     "fan_cooling_layer_time": [
-        "20"
+        "25"
     ],
     "fan_max_speed": [
         "20"
@@ -30,7 +30,7 @@
         "26"
     ],
     "filament_flow_ratio": [
-        "0.97"
+        "0.9566"
     ],
     "filament_loading_speed": [
         "0"
@@ -39,7 +39,7 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "19"
+        "23"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
@@ -54,13 +54,19 @@
         "offset was -.17 for the calbration settings.   May be where it needs to be for printing"
     ],
     "filament_retract_when_changing_layer": [
-        "1"
+        "0"
     ],
     "filament_settings_id": [
-        "Tinmorry PETG-GF Aqua Blue - Calibrated -MMU"
+        "Flashforge PETG Pro - White - Calibrated -MMU"
+    ],
+    "filament_shrink": [
+        "99.95%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "99.95%"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=-0.04 MOVE=1 "
+        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=-0.03 MOVE=1 "
     ],
     "filament_type": [
         "PETG-CF"
@@ -72,15 +78,15 @@
         "0"
     ],
     "filament_vendor": [
-        "Tinmorry"
+        "Flashforge"
     ],
     "filament_wipe": [
-        "1"
+        "0"
     ],
     "from": "User",
     "inherits": "Elegoo Generic PETG",
     "is_custom_defined": "0",
-    "name": "Tinmorry PETG-GF Aqua Blue - Calibrated -MMU",
+    "name": "Flashforge PETG Pro - White - Calibrated -MMU",
     "nozzle_temperature": [
         "260"
     ],
@@ -94,13 +100,10 @@
         "10%"
     ],
     "pressure_advance": [
-        "0.04"
-    ],
-    "reduce_fan_stop_start_freq": [
-        "0"
+        "0.035"
     ],
     "slow_down_layer_time": [
-        "6"
+        "7"
     ],
     "slow_down_min_speed": [
         "25"
