@@ -40,7 +40,7 @@
         "60"
     ],
     "default_filament_colour": [
-        "#080066"
+        "#0875B3"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "10"
+        "23"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
@@ -160,7 +160,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "VOXELAB ASA-CF  Midnight Blue - Calibrated - MMU"
+        "Eryone ASA-CF  Elegoo Blue - Calibrated - MMU"
     ],
     "filament_shrink": [
         "99.95%"
@@ -193,7 +193,7 @@
         "0"
     ],
     "filament_vendor": [
-        "Isounghu"
+        "Eryone"
     ],
     "filament_wipe": [
         "0"
@@ -225,7 +225,7 @@
         "10"
     ],
     "is_custom_defined": "0",
-    "name": "VOXELAB ASA-CF  Midnight Blue - Calibrated - MMU",
+    "name": "Eryone ASA-CF  Elegoo Blue - Calibrated - MMU",
     "nozzle_temperature": [
         "275"
     ],
@@ -248,7 +248,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.02"
+        "0.03"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
