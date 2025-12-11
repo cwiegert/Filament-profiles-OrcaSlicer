@@ -40,7 +40,7 @@
         "60"
     ],
     "default_filament_colour": [
-        "#791E13"
+        "#79FB13"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -160,7 +160,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "iSanghu ASA FAST BlackRed - Calibrated - MMU"
+        "QidiTech - ASA BrightGreen - MMU"
     ],
     "filament_shrink": [
         "99.95%"
@@ -184,7 +184,7 @@
         "0"
     ],
     "filament_type": [
-        "PETG-CF"
+        "ASA"
     ],
     "filament_unloading_speed": [
         "0"
@@ -193,7 +193,7 @@
         "0"
     ],
     "filament_vendor": [
-        "Isounghu"
+        "Qiditech"
     ],
     "filament_wipe": [
         "0"
@@ -228,7 +228,7 @@
         "-1"
     ],
     "is_custom_defined": "0",
-    "name": "iSanghu ASA FAST BlackRed - Calibrated - MMU",
+    "name": "QidiTech - ASA BrightGreen - MMU",
     "nozzle_temperature": [
         "275"
     ],
