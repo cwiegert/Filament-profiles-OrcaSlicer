@@ -94,7 +94,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.8595"
+        "0.8678"
     ],
     "filament_is_support": [
         "0"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "23"
+        "25"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
@@ -160,7 +160,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Eryone ASA-CF  Elegoo Blue - Calibrated - MMU"
+        "Eryone - Neptune blue ASA-CF calibrated - MMU"
     ],
     "filament_shrink": [
         "99.95%"
@@ -193,7 +193,7 @@
         "0"
     ],
     "filament_vendor": [
-        "Eryone"
+        "Isounghu"
     ],
     "filament_wipe": [
         "0"
@@ -225,7 +225,7 @@
         "10"
     ],
     "is_custom_defined": "0",
-    "name": "Eryone ASA-CF  Elegoo Blue - Calibrated - MMU",
+    "name": "Eryone - Neptune blue ASA-CF calibrated - MMU",
     "nozzle_temperature": [
         "275"
     ],
@@ -248,7 +248,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.03"
+        "0.038"
     ],
     "reduce_fan_stop_start_freq": [
         "1"

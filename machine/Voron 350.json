@@ -18,7 +18,6 @@
     "fan_speedup_overhangs": "0",
     "from": "User",
     "inherits": "Elegoo Neptune 4 Pro (0.4 nozzle)",
-    "is_custom_defined": "0",
     "machine_end_gcode": "END_PRINT\n",
     "machine_max_acceleration_e": [
         "2000",

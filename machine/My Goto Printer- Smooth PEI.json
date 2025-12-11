@@ -72,9 +72,6 @@
     "retract_before_wipe": [
         "100%"
     ],
-    "retract_when_changing_layer": [
-        "0"
-    ],
     "retraction_length": [
         "0.5"
     ],
