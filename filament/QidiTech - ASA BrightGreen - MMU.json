@@ -64,10 +64,10 @@
         "25"
     ],
     "fan_max_speed": [
-        "10"
+        "15"
     ],
     "fan_min_speed": [
-        "5"
+        "15"
     ],
     "filament_cooling_final_speed": [
         "0"
@@ -94,7 +94,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.8923"
+        "0.8744"
     ],
     "filament_is_support": [
         "0"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "26.8"
+        "38"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
@@ -178,7 +178,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=0.02 MOVE=1 \nSET_TEMPERATURE_FAN_TARGET temperature_fan=\"chamber_exhaust\" target=60"
+        "; filament start gcode\nSET_GCODE_OFFSET Z_ADJUST=0.065 MOVE=1 \nSET_TEMPERATURE_FAN_TARGET temperature_fan=\"chamber_exhaust\" target=60"
     ],
     "filament_toolchange_delay": [
         "0"
@@ -230,10 +230,10 @@
     "is_custom_defined": "0",
     "name": "QidiTech - ASA BrightGreen - MMU",
     "nozzle_temperature": [
-        "275"
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
-        "275"
+        "265"
     ],
     "nozzle_temperature_range_high": [
         "260"
@@ -242,7 +242,7 @@
         "220"
     ],
     "overhang_fan_speed": [
-        "25"
+        "90"
     ],
     "overhang_fan_threshold": [
         "10%"
@@ -263,7 +263,7 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "5"
+        "0"
     ],
     "slow_down_min_speed": [
         "25"

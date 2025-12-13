@@ -30,7 +30,7 @@
         "85"
     ],
     "filament_flow_ratio": [
-        "0.8797"
+        "0.8997"
     ],
     "filament_loading_speed": [
         "0"
@@ -39,7 +39,7 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "45"
+        "38"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
@@ -49,9 +49,6 @@
     ],
     "filament_multitool_ramming_volume": [
         "0"
-    ],
-    "filament_retract_before_wipe": [
-        "100%"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -87,7 +84,7 @@
         "1"
     ],
     "filament_wipe_distance": [
-        "1"
+        "0.2"
     ],
     "filament_z_hop": [
         "0.25"
@@ -100,7 +97,6 @@
     "internal_bridge_fan_speed": [
         "40"
     ],
-    "is_custom_defined": "0",
     "name": "SUNLU - GOLD ABS - Callibrated - MMU",
     "nozzle_temperature": [
         "265"
@@ -117,5 +113,5 @@
     "overhang_fan_speed": [
         "70"
     ],
-    "version": "2.3.1.0"
+    "version": "2.3.0.1-beta"
 }
